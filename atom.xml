@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Finger Game</title>
+  <title>Finger Games</title>
   
-  <subtitle>Finger Game</subtitle>
+  <subtitle>Finger Games</subtitle>
   <link href="/qianyufan.github.io/atom.xml" rel="self"/>
   
   <link href="https://lqianyufan.github.io/qianyufan.github.io/"/>
@@ -43,7 +43,7 @@
     <link href="https://lqianyufan.github.io/qianyufan.github.io/2019/05/24/happy-blast/"/>
     <id>https://lqianyufan.github.io/qianyufan.github.io/2019/05/24/happy-blast/</id>
     <published>2019-05-24T02:37:34.000Z</published>
-    <updated>2019-05-24T02:38:05.660Z</updated>
+    <updated>2019-05-24T04:03:05.246Z</updated>
     
     <content type="html"><![CDATA[<p>The universe is in danger! </p><p>Choose your spaceship, destroy the alien invaders and protect the galaxy. </p><p>Show them what you’re capable of!</p><p>Find it Here:</p><ul><li><a href="https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack.ball.blast.spacecraft.space" target="_blank" rel="noopener">Google Play</a></li><li>iTunes Store</li></ul>]]></content>
     
